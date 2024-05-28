@@ -6,7 +6,7 @@ __lua__
 -------------------------------
 -- globals -- 
 -------------------------------
-#include pecs/pecs.lua
+#include pecs.lua
 
 local world = pecs()
 
